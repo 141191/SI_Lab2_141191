@@ -4,7 +4,7 @@
 
 ### Група на код: 
 
-Ја добив групата на код 5
+Ја добив групата на код Check Prime
 
 ###  Control Flow Graph
 ![Control Flow Graph](src/cfg.png)
